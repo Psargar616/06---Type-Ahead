@@ -4,7 +4,9 @@ In this challenge, data of 1000 cities is fetched from the URL and stored in an 
 the cities containing typed phrases are displayed on the UI.
 
 ## Project Screenshots
+![ss1](screenshots/screencapture-3.png)
 
+![ss2](screenshots/screencapture-1.png)
 
 ## Live Link
 [Click Here]()
