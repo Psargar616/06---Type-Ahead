@@ -9,7 +9,7 @@ the cities containing typed phrases are displayed on the UI.
 ![ss2](screenshots/screencapture-1.png)
 
 ## Live Link
-[Click Here]()
+[Click Here](https://psargar616.github.io/06---Type-Ahead/)
 
 ## Learned to 
 - fetch data from the URL
